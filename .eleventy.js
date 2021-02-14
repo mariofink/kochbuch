@@ -12,18 +12,10 @@ module.exports = function (eleventyConfig) {
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).setLocale("de").toFormat(
       "dd. LLL yyyy"
     );
   });
-
-  // Syntax Highlighting for Code blocks
-  eleventyConfig.addPlugin(syntaxHighlight);
-
-  // To Support .yaml Extension in _data
-  // You may remove this if you can use JSON
-  eleventyConfig.addDataExtension("yaml", (contents) =>
-    yaml.load(contents)
-  );
 
   // Add Tailwind Output CSS as Watch Target
   eleventyConfig.addWatchTarget("./_tmp/static/css/style.css");
