@@ -1,0 +1,26 @@
+---
+layout: recipeslist
+---
+
+<section class="mt-15">
+    {% set recipeslist = collections.recipe %}
+
+    {% for recipe in recipeslist | reverse %}
+        <article class="my-8">
+            <h2 class="font-bold text-3xl text-gray-900 mb-2">
+                <a href="{{ recipe.url | url }}">
+                    {% if recipe.data.title %}
+                        {{ recipe.data.title }}
+                    {% else %}
+                        Untitled
+                    {% endif %}
+                </a>
+            </h2>
+            {% if recipe.data.description %}
+                <p class="text-lg text-gray-500 mb-3">
+                    {{ recipe.data.description }}
+                </p>
+            {% endif %}
+        </article>
+    {% endfor %}
+</section>
