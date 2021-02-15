@@ -3,8 +3,7 @@ title: Mandarinen-Schmand-Kuchen
 date: 2014-07-06
 category: Kuchen
 tags:
-  - Obst
-  - Blechkuchen
+  - Backen
 source: http://www.chefkoch.de/rezepte/607331160490733/Mandarinen-Schmand-Kuchen.html
 description: description
 ---
