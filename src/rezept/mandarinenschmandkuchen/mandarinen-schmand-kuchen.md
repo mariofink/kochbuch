@@ -7,7 +7,7 @@ tags:
 source: http://www.chefkoch.de/rezepte/607331160490733/Mandarinen-Schmand-Kuchen.html
 description: description
 ---
-![](/static/img/bild.jpg)
+![](./bild.jpg)
 
 ## Zutaten
 
