@@ -1,24 +1,9 @@
 ---
 title: Nudelteig
-
-
-
 date: 2015-03-01
-
-
-
 category: grundrezept
-
-
-
 tags: 
-
-
-
 source: http://www.chefkoch.de/rezepte/1611411268351373/Nudelteig-fuer-perfekte-Pasta.html
-
-
-
  
 
 ---

@@ -1,24 +1,9 @@
 ---
 title: Steakmarinade
-
-
-
 date: 2015-08-02
-
-
-
 category: sonstiges
-
-
-
 tags: 
-
-
-
 source: http://de.allrecipes.com/rezept/16763/die-beste-steak-marinade-der-welt.aspx
-
-
-
  
 
 ---

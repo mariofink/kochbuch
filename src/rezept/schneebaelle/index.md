@@ -1,24 +1,9 @@
 ---
 title: Schneebälle
-
-
-
 date: 2015-11-18
-
-
-
 category: kuchen
-
-
-
 tags: 
-
-
-
 source: 
-
-
-
  
 
 ---

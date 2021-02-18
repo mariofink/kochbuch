@@ -1,21 +1,9 @@
 ---
 title: Lasagne
 date: 2014-09-12
-
-
-
 category: hauptspeise
-
-
-
 tags: Italienisch, Pasta
-
-
-
 source: http://www.chefkoch.de/rezepte/745721177147257/Lasagne.html
-
-
-
  
 
 ---

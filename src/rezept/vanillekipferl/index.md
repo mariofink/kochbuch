@@ -1,24 +1,9 @@
 ---
 title: Vanillekipferl
-
-
-
 date: 2015-11-18
-
-
-
 category: plaetzchen
-
-
-
 tags: Weihnachten, Plätzchen
-
-
-
 source: 
-
-
-
  
 
 ---

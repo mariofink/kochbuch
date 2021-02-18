@@ -21,6 +21,3 @@ source:
 
 ## Zubereitung
 Den Backofen auf 180 °C vorheizen. Das Mehl, Backpulver, Natron, Zimt und Kakaopulver mischen und in ein Schüssel füllen. Das Ei aufschlagen, dann Zucker, Öl und Buttermilch zum Ei dazugaben und vermischen. Bananen schälten, zerdrücken und unterheben. Zuletzt die Mehlmischung zufügen und vorsichtig unterheben. Muffins-Papierförmchen in die Blech-Vertiefungen geben und den Teig einfüllen. Im Backofen 20-25 Minuten geldgelb backen. Im Blech 5 Minuten ruten lassen, dann abgekühlt mit Kuvertüre verzieren.
-
-
-
