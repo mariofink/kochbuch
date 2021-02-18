@@ -5,7 +5,6 @@ category: Kuchen
 tags:
   - Backen
 source: http://www.chefkoch.de/rezepte/607331160490733/Mandarinen-Schmand-Kuchen.html
-description: description
 ---
 ![](./bild.jpg)
 
