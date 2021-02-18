@@ -12,10 +12,13 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Rezepte"
-    name: "rezept"
+  - name: "rezept"
+    label: "Rezepte"
+    label_singular: "Rezept"
     folder: "src/rezept"
     create: true
+    nested: 
+      depth: 1
     editor:
       preview: false
     fields:
