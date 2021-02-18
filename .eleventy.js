@@ -54,6 +54,14 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  eleventyConfig.addCollection("rezepteAlphabetisch", (collection) =>
+  collection.getFilteredByGlob("./src/rezept/**/*.md").sort((a, b) => {
+    if (a.data.title > b.data.title) return 1;
+    else if (a.data.title < b.data.title) return -1;
+    else return 0;
+  })
+);
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {
