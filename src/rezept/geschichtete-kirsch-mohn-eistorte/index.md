@@ -13,7 +13,7 @@ source:
 - *2* Eier
 - *75 g* Zucker
 - *1* Päckchen Vanillinzucker
--  abger. Schale ein Zitrone
+-  abger. Schale einer Zitrone
 - *40 g* Mehl
 - *2 EL* Speisestärke
 - *1* Päckchen Backpulver
