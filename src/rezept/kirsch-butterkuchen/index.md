@@ -2,7 +2,9 @@
 title: Kirsch-Butterkuchen
 date: 2015-02-02
 category: kuchen
-tags: Blechkuchen, Obst
+tags: 
+  - Blechkuchen
+  - Obst
 source: 
 ---
 ## Zutaten

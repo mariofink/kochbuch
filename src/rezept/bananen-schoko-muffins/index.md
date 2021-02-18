@@ -1,7 +1,7 @@
 ---
 title: Bananen-Schoko-Muffins
 date: 2015-11-18
-category: kuchen
+category: Kuchen
 tags: 
 source: 
 ---

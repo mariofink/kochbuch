@@ -4,9 +4,9 @@ date: 2018-09-26
 category: kuchen
 tags: Zimt, Kuchen, Rollen, Hefeteig,
 source: https://www.chefkoch.de/rezepte/503341145287327/Zimtrollen-Kuchen.html
- 
+--- 
 
-Für den Teig:
+## Für den Teig:
 1 Würfel Hefe
 120 ml	Wasser, lauwarmes
 120 ml	Milch, lauwarme
@@ -16,11 +16,11 @@ Für den Teig:
 1 TL Salz
 480 g Mehl
 
-Für die Füllung:
+## Für die Füllung:
 40 g Zucker mit 2 TL Zimt gemischt
  Butter, geschmolzene nach Bedarf
  	
-Für den Guss:
+## Für den Guss:
 120 g Puderzucker
 1 Pkt. Vanillezucker
 1 EL Milch

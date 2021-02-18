@@ -2,7 +2,9 @@
 title: Bratapfel-Torte
 date: 2016-01-24
 category: torte
-tags: Torte, Apfel
+tags: 
+  - Torte
+  - Apfel
 source: http://www.chefkoch.de/rezepte/223111092317200/Bratapfel-Torte.html
 ---
 ## Zutaten

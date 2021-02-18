@@ -1,13 +1,10 @@
 ---
 title: Ziegenkäse-Ravioli mit Feige an Rosmarin-Honig-Butter und Prosciutto
 date: 2015-03-01
-category: hauptspeise
+category: Hauptspeise
 tags: Vorspeise, Ravioli, Ziegenkäse, Rosmarin, Honig, Butter
 source: http://www.vox.de/rezepte/anzeigen/index/?rezept=505679&id=&personen=5
- 
-
 ---
-
 ## Zutaten für 5 Personen
 - *1 ½ Bund* Petersilie
 - *1 ½ Bund* 	Schnittlauch

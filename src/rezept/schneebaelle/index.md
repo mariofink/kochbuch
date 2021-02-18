@@ -4,10 +4,7 @@ date: 2015-11-18
 category: kuchen
 tags: 
 source: 
- 
-
 ---
-
 ## Zutaten
 - *7* Eier
 - *1* Prise Salz 

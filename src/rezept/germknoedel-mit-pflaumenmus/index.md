@@ -1,8 +1,9 @@
 ---
 title: Germknödel mit Pflaumenmus
 date: 2015-11-18
-category: hauptspeise
-tags: Süße Hauptspeise
+category: Hauptspeise
+tags:
+  - Süß 
 source: 
 ---
 ## Zutaten

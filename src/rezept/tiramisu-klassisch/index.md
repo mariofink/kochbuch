@@ -4,10 +4,7 @@ date: 2015-11-18
 category: dessert
 tags: Dessert
 source: 
- 
-
 ---
-
 ## Zutaten
 - *500 ml* Sahne
 - *5* Eier

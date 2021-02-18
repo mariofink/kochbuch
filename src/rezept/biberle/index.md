@@ -1,7 +1,7 @@
 ---
-title: Biberle - Marzipan+Honig
+title: Biberle - Marzipan & Honig
 date: 2015-11-18
-category: plaetzchen
+category: Plätzchen
 tags: 
 source: 
 ---

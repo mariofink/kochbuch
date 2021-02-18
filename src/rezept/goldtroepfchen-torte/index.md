@@ -2,7 +2,10 @@
 title: Goldtröpfchen-Torte
 date: 2015-11-18
 category: torte
-tags: Torte, Kuchen, Käsekuchen
+tags: 
+  - Torte
+  - Kuchen
+  - Käsekuchen
 source: 
 ---
 ## Zutaten

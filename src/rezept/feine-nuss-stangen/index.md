@@ -2,7 +2,9 @@
 title: Feine Nuss-Stangen
 date: 2015-11-18
 category: plaetzchen
-tags: Weihnachten, Plätzchen
+tags: 
+  - Weihnachten
+  - Plätzchen
 source: 
 ---
 ## Zutaten für den Mürbeteig

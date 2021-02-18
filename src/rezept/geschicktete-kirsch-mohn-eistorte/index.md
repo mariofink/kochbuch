@@ -2,7 +2,11 @@
 title: Geschichtete Kirsch-Mohn-Eistorte
 date: 2015-11-18
 category: dessert
-tags: Kuchen, Torte, Dessert, Eistorte
+tags: 
+  - Kuchen
+  - Torte
+  - Dessert
+  - Eistorte
 source: 
 ---
 ## Zutaten für den Teig

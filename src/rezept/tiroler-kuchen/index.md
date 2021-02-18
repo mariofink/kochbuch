@@ -4,8 +4,6 @@ date: 2015-06-23
 category: kuchen
 tags: Rührkuchen, Schokolade
 source: 
- 
-
 ---
 
 ## Zutaten

@@ -1,9 +1,10 @@
 ---
 title: Spargel mit Kartoffeln und Joghurtsoße
 date: 2017-05-16
-category: hauptspeise
+category: Hauptspeise
 tags: Ofenrezept, schnell, einfach, vegetarisch, Spargel, Kartoffeln
 source: http://sallys-blog.de/rezepte/ofenrezept-spargel-mit-kartoffeln-und-schafskaese-joghurtsosse/
+---
  
 
 Zubereitung: 40 Min.

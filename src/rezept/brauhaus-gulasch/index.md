@@ -1,8 +1,11 @@
 ---
 title: Brauhaus Gulasch
 date: 2014-07-06
-category: hauptspeise
-tags: Deftig, Deutsch, Schwein
+category: Hauptspeise
+tags: 
+  - Deftig
+  - Deutsch
+  - Schwein
 source: http://www.chefkoch.de/rezepte/1113761217428134/Brauhaus-Gulasch.html
 ---
 ## Zutaten

@@ -4,10 +4,7 @@ date: 2015-11-18
 category: plaetzchen
 tags: Weihnachten, Plätzchen
 source: 
- 
-
 ---
-
 ## Zutaten
 - *275 g* Mehl
 - *50 g* gemahlene Mandeln

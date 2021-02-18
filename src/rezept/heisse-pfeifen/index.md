@@ -2,7 +2,9 @@
 title: Heisse Pfeifen
 date: 2015-11-18
 category: sonstiges
-tags: Snack, Party
+tags: 
+  - Snack
+  - Party
 source: 
 ---
 ## Zutaten
@@ -14,4 +16,4 @@ source:
 - *10*  Laugenstangen
 
 ## Zubereitung
-Alles zusammen rühren. Finderdick auf halbierte Laugenstangen versteichen und bei 175 °C ca. 10-15 Minuten im Ofen überbacken.
+Alles zusammen rühren. Fingerdick auf halbierte Laugenstangen verstreichen und bei 175 °C ca. 10-15 Minuten im Ofen überbacken.

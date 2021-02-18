@@ -2,7 +2,8 @@
 title: Ciabatta
 date: 2015-11-18
 category: grundrezept
-tags: Brot
+tags:
+  - Brot
 source: 
 ---
 ## Zutaten

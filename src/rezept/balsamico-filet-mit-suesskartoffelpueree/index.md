@@ -1,8 +1,9 @@
 ---
 title: Balsamico-Filet mit Süßkartoffelpüree
 date: 2014-09-12
-category: hauptspeise
-tags: Schwein
+category: Hauptspeise
+tags:
+  - Schwein
 source: 
 ---
 

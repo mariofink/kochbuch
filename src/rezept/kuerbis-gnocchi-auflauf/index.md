@@ -1,7 +1,7 @@
 ---
 title: Kürbis-Gnocchi Auflauf
 date: 2015-11-18
-category: hauptspeise
+category: Hauptspeise
 tags: 
   - Einfach
   - Auflauf
