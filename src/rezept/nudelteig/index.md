@@ -1,24 +1,27 @@
-Title: Nudelteig
+---
+title: Nudelteig
 
-----
 
-Date: 2015-03-01
 
-----
+date: 2015-03-01
 
-Category: grundrezept
 
-----
 
-Tags: 
+category: grundrezept
 
-----
 
-Source: http://www.chefkoch.de/rezepte/1611411268351373/Nudelteig-fuer-perfekte-Pasta.html
 
-----
+tags: 
 
-Text: 
+
+
+source: http://www.chefkoch.de/rezepte/1611411268351373/Nudelteig-fuer-perfekte-Pasta.html
+
+
+
+ 
+
+---
 
 ## Zutaten
 - *125 g* Mehl, Typ 405

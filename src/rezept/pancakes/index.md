@@ -1,8 +1,11 @@
-Title: American Pancakes
+---
+title: American Pancakes
 
-----
 
-Text: 
+
+ 
+
+---
 
 ## Zutaten
 
@@ -26,18 +29,18 @@ Die Pfanne auf mittlerer Stufe erhitzen, jeweils etwa einen TL Olivenöl hinein 
 
 Schmecken toll mit Ahornsirup!
 
-----
 
-Date: 2016-01-01
 
-----
+date: 2016-01-01
 
-Category: dessert
 
-----
 
-Tags: 
+category: dessert
 
-----
 
-Source: 
+
+tags: 
+
+
+
+source: 

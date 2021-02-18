@@ -1,25 +1,10 @@
-Title: Himbeer-Marmor-Torte
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: torte
-
-----
-
-Tags: 
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Himbeer-Marmor-Torte
+date: 2015-11-18
+category: torte
+tags: 
+source: 
+---
 ## Zutaten
 - *250 g* TK-Himbeeren
 - *3*  Eier

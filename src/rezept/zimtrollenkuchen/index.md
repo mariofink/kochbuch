@@ -1,24 +1,25 @@
-Title: Zimtrollen Kuchen
+---
+title: Zimtrollen Kuchen
 
-----
 
-Date: 2018-09-26
 
-----
+date: 2018-09-26
 
-Category: kuchen
 
-----
 
-Tags: Zimt, Kuchen, Rollen, Hefeteig,
+category: kuchen
 
-----
 
-Source: https://www.chefkoch.de/rezepte/503341145287327/Zimtrollen-Kuchen.html
 
-----
+tags: Zimt, Kuchen, Rollen, Hefeteig,
 
-Text: 
+
+
+source: https://www.chefkoch.de/rezepte/503341145287327/Zimtrollen-Kuchen.html
+
+
+
+ 
 
 Für den Teig:
 1 Würfel Hefe

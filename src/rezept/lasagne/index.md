@@ -1,24 +1,24 @@
-Title: Lasagne
+---
+title: Lasagne
+date: 2014-09-12
 
-----
 
-Date: 2014-09-12
 
-----
+category: hauptspeise
 
-Category: hauptspeise
 
-----
 
-Tags: Italienisch, Pasta
+tags: Italienisch, Pasta
 
-----
 
-Source: http://www.chefkoch.de/rezepte/745721177147257/Lasagne.html
 
-----
+source: http://www.chefkoch.de/rezepte/745721177147257/Lasagne.html
 
-Text: 
+
+
+ 
+
+---
 
 ## Zutaten
 - *500 g*	 Hackfleisch

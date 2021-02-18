@@ -1,25 +1,10 @@
-Title: Bratapfel-Torte
-
-----
-
-Date: 2016-01-24
-
-----
-
-Category: torte
-
-----
-
-Tags: Torte, Apfel
-
-----
-
-Source: http://www.chefkoch.de/rezepte/223111092317200/Bratapfel-Torte.html
-
-----
-
-Text: 
-
+---
+title: Bratapfel-Torte
+date: 2016-01-24
+category: torte
+tags: Torte, Apfel
+source: http://www.chefkoch.de/rezepte/223111092317200/Bratapfel-Torte.html
+---
 ## Zutaten
 ### Für den Teig:
 - *250 g* Mehl

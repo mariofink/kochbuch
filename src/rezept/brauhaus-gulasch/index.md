@@ -1,25 +1,10 @@
-Title: Brauhaus Gulasch
-
-----
-
-Date: 2014-07-06
-
-----
-
-Category: hauptspeise
-
-----
-
-Tags: Deftig, Deutsch, Schwein
-
-----
-
-Source: http://www.chefkoch.de/rezepte/1113761217428134/Brauhaus-Gulasch.html
-
-----
-
-Text: 
-
+---
+title: Brauhaus Gulasch
+date: 2014-07-06
+category: hauptspeise
+tags: Deftig, Deutsch, Schwein
+source: http://www.chefkoch.de/rezepte/1113761217428134/Brauhaus-Gulasch.html
+---
 ## Zutaten
 - *500 g* Gulasch vom Schwein
 - *2 EL*	 Butterschmalz

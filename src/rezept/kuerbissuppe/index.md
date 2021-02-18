@@ -1,24 +1,13 @@
-Title: Kürbissuppe
-
-----
-
-Date: 2014-09-12
-
-----
-
-Category: suppe
-
-----
-
-Tags: Suppe, Herbst, Kürbis
-
-----
-
-Source: http://www.chefkoch.de/rezepte/39771013411208/Kuerbissuppe.html
-
-----
-
-Text: 
+---
+title: Kürbissuppe
+date: 2014-09-12
+category: suppe
+tags: 
+  - Suppe
+  - Herbst
+  - Kürbis
+source: http://www.chefkoch.de/rezepte/39771013411208/Kuerbissuppe.html
+---
 
 ## Zutaten
 - *1 EL* Öl

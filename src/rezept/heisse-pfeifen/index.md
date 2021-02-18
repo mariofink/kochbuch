@@ -1,25 +1,10 @@
-Title: Heisse Pfeifen
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: sonstiges
-
-----
-
-Tags: Snack, Party
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Heisse Pfeifen
+date: 2015-11-18
+category: sonstiges
+tags: Snack, Party
+source: 
+---
 ## Zutaten
 - *200 g*  gekochter Schinken
 - *200 g*  roher Schinken

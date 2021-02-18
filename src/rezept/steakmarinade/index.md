@@ -1,24 +1,27 @@
-Title: Steakmarinade
+---
+title: Steakmarinade
 
-----
 
-Date: 2015-08-02
 
-----
+date: 2015-08-02
 
-Category: sonstiges
 
-----
 
-Tags: 
+category: sonstiges
 
-----
 
-Source: http://de.allrecipes.com/rezept/16763/die-beste-steak-marinade-der-welt.aspx
 
-----
+tags: 
 
-Text: 
+
+
+source: http://de.allrecipes.com/rezept/16763/die-beste-steak-marinade-der-welt.aspx
+
+
+
+ 
+
+---
 
 ## Zutaten
 - *80 ml* Sojasoße

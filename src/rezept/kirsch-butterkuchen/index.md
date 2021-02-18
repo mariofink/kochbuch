@@ -1,25 +1,10 @@
-Title: Kirsch-Butterkuchen
-
-----
-
-Date: 2015-02-02
-
-----
-
-Category: kuchen
-
-----
-
-Tags: Blechkuchen, Obst
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Kirsch-Butterkuchen
+date: 2015-02-02
+category: kuchen
+tags: Blechkuchen, Obst
+source: 
+---
 ## Zutaten
 - *500 g*	 Mehl
 - *1 Prise* Salz

@@ -1,25 +1,10 @@
-Title: Goldtröpfchen-Torte
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: torte
-
-----
-
-Tags: Torte, Kuchen, Käsekuchen
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Goldtröpfchen-Torte
+date: 2015-11-18
+category: torte
+tags: Torte, Kuchen, Käsekuchen
+source: 
+---
 ## Zutaten
 - *200 g* Mehl, Typ 405
 - *325 g* Zucker

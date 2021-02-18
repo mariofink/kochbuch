@@ -1,24 +1,12 @@
-Title: Kürbis-Gnocchi Auflauf
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: hauptspeise
-
-----
-
-Tags: Einfach, Auflauf
-
-----
-
-Source: http://www.chefkoch.de/rezepte/1953131317830499/Saftiger-Kuerbis-Gnocchi-Auflauf.html
-
-----
-
-Text: 
+---
+title: Kürbis-Gnocchi Auflauf
+date: 2015-11-18
+category: hauptspeise
+tags: 
+  - Einfach
+  - Auflauf
+source: http://www.chefkoch.de/rezepte/1953131317830499/Saftiger-Kuerbis-Gnocchi-Auflauf.html
+---
 
 ## Zutaten
 - *etwas*  Öl zum Anbraten

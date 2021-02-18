@@ -1,25 +1,10 @@
-Title: Ciabatta
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: grundrezept
-
-----
-
-Tags: Brot
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Ciabatta
+date: 2015-11-18
+category: grundrezept
+tags: Brot
+source: 
+---
 ## Zutaten
 - *450 g*  Mehl
 - *1*  Prise Salz 

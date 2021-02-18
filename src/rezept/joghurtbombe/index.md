@@ -1,25 +1,10 @@
-Title: Joghurtbombe
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: dessert
-
-----
-
-Tags: 
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Joghurtbombe
+date: 2015-11-18
+category: dessert
+tags: 
+source: 
+---
 ## Zutaten
 - *500 g* Natur Joghurt
 - *120 g* Zucker

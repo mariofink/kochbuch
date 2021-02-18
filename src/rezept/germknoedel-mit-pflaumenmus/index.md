@@ -1,25 +1,10 @@
-Title: Germknödel mit Pflaumenmus
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: hauptspeise
-
-----
-
-Tags: Süße Hauptspeise
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Germknödel mit Pflaumenmus
+date: 2015-11-18
+category: hauptspeise
+tags: Süße Hauptspeise
+source: 
+---
 ## Zutaten
 - *150 ml*  lauwarme Mild
 - *375 g*  Mehl

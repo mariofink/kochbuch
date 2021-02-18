@@ -1,25 +1,10 @@
-Title: Feine Nuss-Stangen
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: plaetzchen
-
-----
-
-Tags: Weihnachten, Plätzchen
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Feine Nuss-Stangen
+date: 2015-11-18
+category: plaetzchen
+tags: Weihnachten, Plätzchen
+source: 
+---
 ## Zutaten für den Mürbeteig
 - *250 g* Mehl
 - *200 g* Butter

@@ -1,24 +1,27 @@
-Title: Schwarz-Weiß-Gebäck
+---
+title: Schwarz-Weiß-Gebäck
 
-----
 
-Date: 2015-11-18
 
-----
+date: 2015-11-18
 
-Category: plaetzchen
 
-----
 
-Tags: Weihnachten, Plätzchen
+category: plaetzchen
 
-----
 
-Source: 
 
-----
+tags: Weihnachten, Plätzchen
 
-Text: 
+
+
+source: 
+
+
+
+ 
+
+---
 
 ## Zutaten
 - *750 g*  Mehl

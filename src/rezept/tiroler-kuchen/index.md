@@ -1,24 +1,27 @@
-Title: Tiroler Kuchen
+---
+title: Tiroler Kuchen
 
-----
 
-Date: 2015-06-23
 
-----
+date: 2015-06-23
 
-Category: kuchen
 
-----
 
-Tags: Rührkuchen, Schokolade
+category: kuchen
 
-----
 
-Source: 
 
-----
+tags: Rührkuchen, Schokolade
 
-Text: 
+
+
+source: 
+
+
+
+ 
+
+---
 
 ## Zutaten
 - *200 g* Butter

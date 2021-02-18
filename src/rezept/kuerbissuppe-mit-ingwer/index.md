@@ -1,24 +1,10 @@
-Title: Kürbissuppe mit Ingwer
-
-----
-
-Date: 2016-12-21
-
-----
-
-Category: suppe
-
-----
-
-Tags: Florenz
-
-----
-
-Source: http://www.essen-und-trinken.de/kuerbissuppe
-
-----
-
-Text: 
+---
+title: Kürbissuppe mit Ingwer
+date: 2016-12-21
+category: suppe
+tags: Florenz
+source: http://www.essen-und-trinken.de/kuerbissuppe
+---
 
 ## Zutaten
 - Kürbis (Hokkaido)

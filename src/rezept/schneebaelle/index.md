@@ -1,24 +1,27 @@
-Title: Schneebälle
+---
+title: Schneebälle
 
-----
 
-Date: 2015-11-18
 
-----
+date: 2015-11-18
 
-Category: kuchen
 
-----
 
-Tags: 
+category: kuchen
 
-----
 
-Source: 
 
-----
+tags: 
 
-Text: 
+
+
+source: 
+
+
+
+ 
+
+---
 
 ## Zutaten
 - *7* Eier

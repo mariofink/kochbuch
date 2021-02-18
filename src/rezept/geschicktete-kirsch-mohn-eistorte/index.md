@@ -1,25 +1,10 @@
-Title: Geschichtete Kirsch-Mohn-Eistorte
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: dessert
-
-----
-
-Tags: Kuchen, Torte, Dessert, Eistorte
-
-----
-
-Source: 
-
-----
-
-Text: 
-
+---
+title: Geschichtete Kirsch-Mohn-Eistorte
+date: 2015-11-18
+category: dessert
+tags: Kuchen, Torte, Dessert, Eistorte
+source: 
+---
 ## Zutaten für den Teig
 - *2* Eier
 - *75 g* Zucker

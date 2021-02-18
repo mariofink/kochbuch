@@ -1,24 +1,27 @@
-Title: Vanillekipferl
+---
+title: Vanillekipferl
 
-----
 
-Date: 2015-11-18
 
-----
+date: 2015-11-18
 
-Category: plaetzchen
 
-----
 
-Tags: Weihnachten, Plätzchen
+category: plaetzchen
 
-----
 
-Source: 
 
-----
+tags: Weihnachten, Plätzchen
 
-Text: 
+
+
+source: 
+
+
+
+ 
+
+---
 
 ## Zutaten
 - *275 g* Mehl

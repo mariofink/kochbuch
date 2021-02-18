@@ -1,24 +1,10 @@
-Title: Biberle - Marzipan+Honig
-
-----
-
-Date: 2015-11-18
-
-----
-
-Category: plaetzchen
-
-----
-
-Tags: 
-
-----
-
-Source: 
-
-----
-
-Text: 
+---
+title: Biberle - Marzipan+Honig
+date: 2015-11-18
+category: plaetzchen
+tags: 
+source: 
+---
 
 ## Zutaten
 - *125 g* flüssiger Honig
