@@ -13,8 +13,8 @@ local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "Rezepte"
-    name: "recipes"
-    folder: "src/recipes"
+    name: "rezept"
+    folder: "src/rezept"
     create: true
     editor:
       preview: false
