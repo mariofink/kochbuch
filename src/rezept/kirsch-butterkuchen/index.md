@@ -5,8 +5,9 @@ category: kuchen
 tags: 
   - Blechkuchen
   - Obst
-source: 
 ---
+![](./bild.jpg)
+
 ## Zutaten
 - *500 g*	 Mehl
 - *1 Prise* Salz

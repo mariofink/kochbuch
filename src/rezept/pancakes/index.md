@@ -6,6 +6,9 @@ tags:
 source: 
 ---
 
+[![American Pancakes](./bild.jpg "Photo by nikldn on unsplash")](https://unsplash.com/photos/c_5yGLxoj3g)
+
+
 ## Zutaten
 
 - *150 g* Mehl
@@ -27,3 +30,5 @@ Mehl, Backpulver, Milchmischung, Salz und Zucker nach und nach zu den Eiern gebe
 Die Pfanne auf mittlerer Stufe erhitzen, jeweils etwa einen TL Olivenöl hinein geben und nacheinander den ganzen Teig zu Pancakes verbacken. Wichtig! Ganz wenig Öl verwenden und langsam, also auf mittlerer Stufe nicht zu heiß ausbacken.
 
 Schmecken toll mit Ahornsirup!
+
+<span>Photo by <a href="https://unsplash.com/@nikldn?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">nikldn</a> on <a href="">Unsplash</a></span>
