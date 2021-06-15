@@ -17,8 +17,8 @@ source:
 - *1 Pck.* Backpulver
 - *3* Eier
 - *1 Prise* Salz
-- * * Olivenöl
-- * * Ahornsirup
+- Olivenöl
+- Ahornsirup
 
 ## Zubereitung
 Die Eier zu einer schönen hellen Schaummasse verquirlen.

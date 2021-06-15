@@ -11,7 +11,7 @@ source:
 - *1/2 TL*  Natron
 - *1/2 TL*  Zimt 
 - *3 EL*  Kakaopulver
-- *1 *  Ei
+- *1*  Ei
 - *175 g*  brauner Zucker
 - *100 ml*  Öl, neutral
 - *125 g*  Buttermilch
