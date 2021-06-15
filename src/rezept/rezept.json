@@ -1,6 +1,4 @@
 {
-    "layout": "rezept",
-    "tags": [
-        "rezept"
-    ]
+  "layout": "rezept",
+  "tags": ["rezept"]
 }

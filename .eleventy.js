@@ -11,16 +11,14 @@ module.exports = function (eleventyConfig) {
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).setLocale("de").toFormat(
-      "dd. LLLL yyyy"
-    );
+    return DateTime.fromJSDate(dateObj, { zone: "utc" })
+      .setLocale("de")
+      .toFormat("dd. LLLL yyyy");
   });
 
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
-  eleventyConfig.addDataExtension("yaml", (contents) =>
-    yaml.load(contents)
-  );
+  eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
   // Add Tailwind Output CSS as Watch Target
   eleventyConfig.addWatchTarget("./_tmp/static/css/style.css");
@@ -47,7 +45,7 @@ module.exports = function (eleventyConfig) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
       });
       return minified;
     }
@@ -56,12 +54,12 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("rezepteAlphabetisch", (collection) =>
-  collection.getFilteredByGlob("./src/rezept/**/*.md").sort((a, b) => {
-    if (a.data.title > b.data.title) return 1;
-    else if (a.data.title < b.data.title) return -1;
-    else return 0;
-  })
-);
+    collection.getFilteredByGlob("./src/rezept/**/*.md").sort((a, b) => {
+      if (a.data.title > b.data.title) return 1;
+      else if (a.data.title < b.data.title) return -1;
+      else return 0;
+    })
+  );
 
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk

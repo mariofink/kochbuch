@@ -3,20 +3,16 @@ layout: rezepte
 ---
 
 <section class="mt-15">
-    {% set recipeslist = collections.rezepteAlphabetisch %}
-    
-    <ul>
-        {% for recipe in recipeslist %}
-        <li class="font-bold text-2xl text-gray-900 mb-2">
-            <a href="{{ recipe.url | url }}">
-                {% if recipe.data.title %}
-                {{ recipe.data.title }}
-                {% else %}
-                Untitled
-                {% endif %}
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
-    
+  {% set recipeslist = collections.rezepteAlphabetisch %}
+
+  <ul>
+    {% for recipe in recipeslist %}
+    <li class="font-bold text-2xl text-gray-900 mb-2">
+      <a href="{{ recipe.url | url }}">
+        {% if recipe.data.title %} {{ recipe.data.title }} {% else %} Untitled
+        {% endif %}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
 </section>
