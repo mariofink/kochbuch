@@ -61,6 +61,12 @@ module.exports = function (eleventyConfig) {
     })
   );
 
+  eleventyConfig.addCollection("hauptspeisen", (collection) =>
+    collection
+      .getFilteredByGlob("./src/rezept/**/*.md")
+      .filter((item) => item.data.category === "Hauptspeise")
+  );
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {
