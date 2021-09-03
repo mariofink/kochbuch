@@ -4,16 +4,7 @@ title: Kochbuch
 path: home
 ---
 
-<div
-  class="
-    container
-    mx-auto
-    lg:h-screen
-    flex flex-col
-    justify-center
-    items-center
-  "
->
+<div class="container mx-auto flex flex-col justify-center items-center">
   <h1>
     <strong
       class="
@@ -29,6 +20,11 @@ path: home
   </h1>
 
   <p>Die Lieblingsrezepte von Bettina, Mario, Florenz & Hendrik.</p>
+  <hr />
+</div>
 
-  {% include "./_includes/partials/content.html" %}
+<div class="container max-w-3xl mt-6 px-6">
+  <section class="mt-15">
+    {% include "./_includes/partials/recipeslist.html" %}
+  </section>
 </div>
