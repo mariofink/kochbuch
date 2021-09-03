@@ -14,6 +14,12 @@
     x-data="{ isOpen: false }"
     @keydown.escape="isOpen = false"
   >
+    <!--Logo etc-->
+    {% if path != 'home' %}
+    <div class="flex items-center lg:hidden">
+      <a href="/" class="text-indigo-500 font-bold text-lg">Kochbuch</a>
+    </div>
+    {% endif %}
     <!--Toggle button (hidden on large screens)-->
     <button
       @click="isOpen = !isOpen"
@@ -70,7 +76,7 @@
         "
       >
         {% for item in navigation.items %}
-        <li class="nav__item mr-3">
+        <li class="nav__item">
           <a
             @click="isOpen = false"
             class="
