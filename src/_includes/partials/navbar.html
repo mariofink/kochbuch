@@ -14,11 +14,6 @@
     x-data="{ isOpen: false }"
     @keydown.escape="isOpen = false"
   >
-    <!--Logo etc-->
-    <div class="flex items-center">
-      <a href="/" class="text-indigo-500 font-bold text-lg"> Kochbuch</a>
-    </div>
-
     <!--Toggle button (hidden on large screens)-->
     <button
       @click="isOpen = !isOpen"
@@ -64,7 +59,15 @@
       {% if navigation.items %}
 
       <ul
-        class="pt-6 lg:pt-0 list-reset lg:flex justify-end flex-1 items-center"
+        class="
+          pt-6
+          lg:pt-0
+          list-reset
+          lg:flex
+          justify-center
+          flex-1
+          items-center
+        "
       >
         {% for item in navigation.items %}
         <li class="nav__item mr-3">
