@@ -1,16 +1,6 @@
 <div class="w-full">
   <nav
-    class="
-      flex
-      items-center
-      justify-center
-      lg:justify-between
-      flex-wrap
-      p-6
-      lg:px-0
-      container
-      mx-auto
-    "
+    class="flex items-center justify-center lg:justify-between flex-wrap p-6 lg:px-0 container mx-auto"
     x-data="{ isOpen: false }"
     @keydown.escape="isOpen = false"
   >
@@ -24,15 +14,7 @@
     <button
       @click="isOpen = !isOpen"
       type="button"
-      class="
-        ml-auto
-        block
-        lg:hidden
-        px-2
-        text-primary-500
-        hover:text-primary-500
-        focus:outline-none focus:text-primary-500
-      "
+      class="ml-auto block lg:hidden px-2 text-primary-500 hover:text-primary-500 focus:outline-none focus:text-primary-500"
       :class="{ 'transition transform-180': isOpen }"
       aria-label="Menu"
     >
@@ -65,29 +47,13 @@
       {% if navigation.items %}
 
       <ul
-        class="
-          pt-6
-          lg:pt-0
-          list-reset
-          lg:flex
-          justify-center
-          flex-1
-          items-center
-        "
+        class="pt-6 lg:pt-0 list-reset lg:flex justify-center flex-1 items-center"
       >
         {% for item in navigation.items %}
         <li class="nav__item">
           <a
             @click="isOpen = false"
-            class="
-              text-ml
-              inline-block
-              text-gray-500
-              no-underline
-              hover:text-indigo-500
-              py-2
-              px-4
-            "
+            class="text-ml inline-block text-gray-500 no-underline hover:text-indigo-500 py-2 px-4"
             href="{{ item.url }}"
             >{{ item.text }}</a
           >
